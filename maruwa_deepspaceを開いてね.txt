@@ -1,0 +1,15 @@
+HTML5に対応しているブラウザで動作します。
+
+貴方を夢の世界へご招待。
+
+maruwa_deepspace : 宇宙太郎
+
+maruwa_sideview : 悪夢太郎
+
+Android：
+	・Google Chrome
+Windows:
+	・Google Chrome
+	・Firefox
+	・Microsoft Edge
+で動作確認。
